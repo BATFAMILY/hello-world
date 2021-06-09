@@ -1,0 +1,22 @@
+body {
+  background-color: #343a40;
+  color: #fffdff;
+}
+header {
+  height: 100px;
+  text-align: center;
+}
+button {
+  border-radius: 12px;
+  background-color: sienna;
+  color: thistle;
+  width: 124px;
+  height: 45px;
+}
+button:hover {
+  color: black;
+  background-color: white;
+}
+button:active {
+  background-color: transparent;
+}
