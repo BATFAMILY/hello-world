@@ -1,2 +1,1 @@
-# ourschooldatabase
-ကျောင်းတွင်းဖြစ်စဉ် အချက်အလက်များ စုစည်းမှု
+#hello world
